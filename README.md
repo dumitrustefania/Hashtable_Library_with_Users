@@ -78,7 +78,7 @@ using malloc(), realloc() and free() functions from the stdlib.h library.
     - decrease 50 points from the user's points
     - mark the user as having no book borrowed
 	
-11)EXIT
+11) EXIT
     - print the ranking for the books based on their rating, 
         no of purchases and names
     - print the ranking for the books based on their no of points and names
